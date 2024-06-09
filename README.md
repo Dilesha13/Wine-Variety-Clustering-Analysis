@@ -48,8 +48,9 @@ Project Overview:
       *Re-Clustering on PCA-transformed Data: Repeated the clustering analysis on the transformed data to potentially improve clustering performance.
 
 Key Results:
-  # Optimal Number of Clusters: The analysis suggested that 2 and 3 clusters were appropriate.
+
+  *Optimal Number of Clusters: The analysis suggested that 2 and 3 clusters were appropriate.
   
-  #Clustering Performance: The clusters for k=2 and k=3 were evaluated using silhouette scores and Calinski-Harabasz index, with respective values indicating good cluster separation and compactness.
+  *Clustering Performance: The clusters for k=2 and k=3 were evaluated using silhouette scores and Calinski-Harabasz index, with respective values indicating good cluster separation and compactness.
   
-  #Improvement with PCA: The clustering on PCA-transformed data showed slightly better performance metrics, indicating PCA's utility in enhancing clustering quality.
+  *Improvement with PCA: The clustering on PCA-transformed data showed slightly better performance metrics, indicating PCA's utility in enhancing clustering quality.
